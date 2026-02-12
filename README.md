@@ -1,44 +1,141 @@
-# vCard - Personal portfolio
+🌐 Tanishk Bhatt – Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio repository! 👋
+This project represents my skills, projects, and journey as a developer.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+I built this portfolio to showcase my work, technical skills, and to create a strong online presence.
 
-## Demo
+🚀 Live Website
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+🔗 Visit Here:
+https://tanishkbhatt168.github.io/PORTFOLIO/
 
-## Prerequisites
+📌 About Me
 
-Before you begin, ensure you have met the following requirements:
+Hi, I'm Tanishk Bhatt — a passionate developer focused on building clean, responsive, and user-friendly web applications.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+I enjoy:
 
-## Installing vCard
+Creating modern UI designs
 
-To install **vCard**, follow these steps:
+Learning new technologies
 
-Linux and macOS:
+Solving real-world problems through code
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Building impactful digital experiences
 
-Windows:
+🛠️ Tech Stack
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+This portfolio is built using:
 
-## Contact
+HTML5
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+CSS3
 
-## License
+JavaScript
 
-MIT
+Responsive Web Design
+
+Git & GitHub
+
+✨ Features
+
+Fully responsive design (Mobile, Tablet & Desktop)
+
+Clean and modern layout
+
+Smooth user experience
+
+Project showcase section
+
+Contact section
+
+Fast loading and optimized structure
+
+Simple and elegant UI
+
+📂 Folder Structure
+PORTFOLIO/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── index.html
+└── README.md
+
+💻 Installation & Setup
+
+To run this project locally:
+
+1️⃣ Clone the repository
+git clone https://github.com/TanishkBhatt168/PORTFOLIO.git
+
+2️⃣ Navigate into the folder
+cd PORTFOLIO
+
+3️⃣ Open in browser
+
+Simply open:
+
+index.html
+
+🌍 Deployment
+
+This project is deployed using GitHub Pages.
+
+To deploy:
+
+Go to repository → Settings
+
+Click "Pages"
+
+Select branch: main
+
+Folder: / (root)
+
+Save
+
+Your site will be live in a few minutes 🚀
+
+📸 Screenshots
+
+(Add screenshots here if you want — improves professionalism)
+
+Example format:
+
+![Desktop View](./assets/images/desktop-preview.png)
+![Mobile View](./assets/images/mobile-preview.png)
+
+📈 Future Improvements
+
+Add Dark Mode 🌙
+
+Add Animations
+
+Add Blog Section
+
+Add Backend Integration
+
+Add Custom Domain
+
+🤝 Connect With Me
+
+🔗 GitHub: https://github.com/TanishkBhatt168
+
+💼 LinkedIn: (Add your LinkedIn URL)
+
+📧 Email: (Add your professional email)
+
+⭐ Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+
+Share it
+
+Provide feedback
+
+© 2026 Tanishk Bhatt. All Rights Reserved.
